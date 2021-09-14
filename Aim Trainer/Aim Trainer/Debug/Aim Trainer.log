@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\Fabio\Desktop\Aim Trainer\Aim Trainer\Game.cpp(182,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fabio\Desktop\Aim Trainer\Aim Trainer\Game.cpp(195,20): warning C4018: '<': signed/unsigned mismatch
+  Aim Trainer.vcxproj -> C:\Users\Fabio\Desktop\Aim Trainer\Debug\Aim Trainer.exe
